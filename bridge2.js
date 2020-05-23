@@ -1,10 +1,10 @@
-class Laptop {
+class Computer {
     constructor(display) {
       this.display = display;
     }
   }
   
-  class Lenovo extends Laptop {
+  class Lenovo extends Computer {
     constructor(display) {
       super(display);
     }
@@ -14,7 +14,7 @@ class Laptop {
     }
   }
   
-  class Asus extends Laptop {
+  class Asus extends Computer {
     constructor(display) {
       super(display);
     }

@@ -1,5 +1,5 @@
-adapter
-bridge
-composite2
-facade
-proxy2
+adapter.js
+bridge.js
+composite2.js
+facade.js
+proxy2.js
